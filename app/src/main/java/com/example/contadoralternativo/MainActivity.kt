@@ -54,4 +54,3 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"se boton se ha clickeado 10 veces " ,Toast.LENGTH_SHORT) .show()
     }
 }
--
